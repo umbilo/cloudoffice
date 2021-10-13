@@ -1,7 +1,7 @@
 # Overview
 Nextcloud built in the cloud automatically using Terraform with Ansible. Now with optional duckdns.org/letsencrypt support!
 
-Original implementation available for several major cloud providers, including: AWS (EC2 or Lightsail), Azure,... whoever this fork is focussuing currently on Azure and trying to add traeffic as reverse proxy with let's encrypt support.
+Original implementation available for several major cloud providers, including: AWS (EC2 or Lightsail), Azure,... however - this fork is focussing currently on Azure and trying to add traeffic as reverse proxy with let's encrypt support.
 
 ![Diagram](cloudofficediagram.png)
 
